@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Classification
+# Campaign Classification
 
 ## Problem Statement
 This project analyzes a Portuguese bank's telemarketing campaign data to predict whether customers will subscribe to a term deposit. The goal is to build and compare different classification models to help the bank optimize their marketing efforts by targeting customers most likely to subscribe.
